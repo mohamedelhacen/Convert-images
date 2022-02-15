@@ -14,9 +14,10 @@ python converter.py
 ```
 
 ### Libraries used
-- PIL (pillow)
+- PIL(pillow)
 - sys
 - os
+- tkinter
 
 ### *Author Name*
 [Mohamed El Hacen Habib](https://github.com/mohamedelhacen)
